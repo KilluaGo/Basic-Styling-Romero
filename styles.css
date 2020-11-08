@@ -7,8 +7,7 @@ h1
     color:#375e97;
     font-family: Georgia;
     font-size:2em;
-    border-bottom:5px,#375e97;
-    border-bottom-style:dotted;
+    border-bottom:5px dotted #375e97;
 }
 .job-title
 {
@@ -21,9 +20,7 @@ h2
 ul
 {
     background-color: #eeeeee;
-    border:5px;
-    border-style: solid;
-    border-color: purple;
+    border:5px solid purple;
     padding: 30px;
 }
 a:link
